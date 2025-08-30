@@ -68,3 +68,4 @@ export default tseslint.config([
 ])
 ```
 This is a website builder.
+It allows drag and drop functionality.
